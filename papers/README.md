@@ -47,6 +47,15 @@
 
 ## Quantum Programming関連
 
+  - [IBM Quantum](https://quantum.ibm.com/)
+    - IBM Quantumのページ。ここでアカウントを作ることによりIBMの実機量子コンピュータが利用できる。
+
+
+### install方法関連
+  - [IBM Quantum Documentation -Install Qiskit](https://docs.quantum.ibm.com/start/install#local)
+  - [Qiskit Aer import error](https://discourse.jupyter.org/t/qiskit-aer-import-error/24377)
+    - T.B.D.
+
 
 ## Keyword
   - HHL Argorithm
