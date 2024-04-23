@@ -39,6 +39,8 @@
     - 著者たちは、この連続変数量子システムを用いて、量子版のニューラルネットワークを設計し、その訓練方法を提案している。具体的には、量子版のバックプロパゲーション法を用いて、量子ニューラルネットワークのパラメータを最適化する方法が示されている。(by GPT-4)
     - また、この論文では提案された量子ニューラルネットが、特定のタスク（例えば、関数近似やパターン分類）において、古典的なニューラルネットワークと比較して優れた性能を示す可能性があることも示されている。(by GPT-4)
 
+  - [[arxiv 2404.12741 Multi-Class Quantum Convolutional Neural Networks]](https://arxiv.org/abs/2404.12741)
+    - 古典データの多クラス分類のための、量子畳み込みニューラルネットワーク(QCNN)。最適化過程は、パラメトライズ量子回路を通してクロスエントロピー損失を最小化することで行われる。分類クラスが多くなると、QCNNが古典を凌駕すると判明。参考：https://twitter.com/tweetnakasho/status/1782530820437361054
 
 ## Reference URLs
  - [最適なパラメータ化された量子回路を発見するための考え方](https://www.investor-daiki.com/qiskit-textbook-pqc)
@@ -49,6 +51,11 @@
 
   - [IBM Quantum](https://quantum.ibm.com/)
     - IBM Quantumのページ。ここでアカウントを作ることによりIBMの実機量子コンピュータが利用できる。
+
+  - [[arxiv 2404.12603] Qwerty: A Basis-Oriented Quantum Programming Language](https://arxiv.org/abs/2404.12603)
+    - プログラマがゲートよりも表現力豊かに量子ビットを操作できる量子プログラミング言語Qwerty。ゲート選択という泥臭いタスクはコンパイラに任せる。新しい基底型とPythonとの相互運用性により高レベルの量子古典計算フレームワークを実現した。参考：https://x.com/tweetnakasho/status/1782519232959586390
+
+
 
 
 ### install方法関連
