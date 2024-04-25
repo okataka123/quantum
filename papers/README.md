@@ -42,6 +42,14 @@
   - [[arxiv 2404.12741 Multi-Class Quantum Convolutional Neural Networks]](https://arxiv.org/abs/2404.12741)
     - 古典データの多クラス分類のための、量子畳み込みニューラルネットワーク(QCNN)。最適化過程は、パラメトライズ量子回路を通してクロスエントロピー損失を最小化することで行われる。分類クラスが多くなると、QCNNが古典を凌駕すると判明。参考：https://twitter.com/tweetnakasho/status/1782530820437361054
 
+
+  - [[arxiv 2404.15377] Fourier Series Guided Design of Quantum Convolutional Neural Networks for Enhanced Time Series Forecasting](https://arxiv.org/abs/2404.15377)
+    - 時系列予測タスクに1D QCNNを適用。変分量子回路が多次元Fourier級数で表現可能として先行研究をもとに、異なるアーキテクチャ・ansatzの能力を探索。自由パラメータ数がFoueier級数自由度を超えなくとも、高次Fourier関数が生成可能とした。https://twitter.com/tweetnakasho/status/1783558653783732635
+
+  - [[arxiv 2404.15015] A Hybrid Quantum-Classical Physics-Informed Neural Network Architecture for Solving Quantum Optimal Control Problems](https://arxiv.org/abs/2404.15015)
+    - Physics-Informed Neural Network(PINN: 物理情報ニューラルネットワーク)の枠組みを用いて、Pontryaginの最小原理を基礎とした量子最適制御問題のための量子古典ハイブリッド手法を提案。https://twitter.com/tweetnakasho/status/1783235404269064456
+
+
 ## Reference URLs
  - [最適なパラメータ化された量子回路を発見するための考え方](https://www.investor-daiki.com/qiskit-textbook-pqc)
     - Parametrized Quantum Circuits (PQCs)の説明あり。
