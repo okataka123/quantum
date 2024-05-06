@@ -42,7 +42,6 @@
   - [[arxiv 2404.12741 Multi-Class Quantum Convolutional Neural Networks]](https://arxiv.org/abs/2404.12741)
     - 古典データの多クラス分類のための、量子畳み込みニューラルネットワーク(QCNN)。最適化過程は、パラメトライズ量子回路を通してクロスエントロピー損失を最小化することで行われる。分類クラスが多くなると、QCNNが古典を凌駕すると判明。参考：https://twitter.com/tweetnakasho/status/1782530820437361054
 
-
   - [[arxiv 2404.15377] Fourier Series Guided Design of Quantum Convolutional Neural Networks for Enhanced Time Series Forecasting](https://arxiv.org/abs/2404.15377)
     - 時系列予測タスクに1D QCNNを適用。変分量子回路が多次元Fourier級数で表現可能として先行研究をもとに、異なるアーキテクチャ・ansatzの能力を探索。自由パラメータ数がFoueier級数自由度を超えなくとも、高次Fourier関数が生成可能とした。https://twitter.com/tweetnakasho/status/1783558653783732635
 
@@ -55,6 +54,18 @@
     - Parametrized Quantum Circuits (PQCs)の説明あり。
     - PQCsとは、量子回路に調整可能なパラメータを用いたゲートを含む量子回路のこと。
 
+ - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
+    - 様々な量子アルゴリズムが網羅的に掲載されたホームページ。
+
+ - [Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/index.html)
+    - 量子コンピューティングのための勉強サイト。
+
+ - [Qiskit Ecosystem 機械学習チュートリアル](https://qiskit-community.github.io/qiskit-machine-learning/locale/ja_JP/tutorials/index.html)
+    - qiskit-communityによる、Qiskitを使った量子機械学習チュートリアルのページ。PyTorchによるqGANや量子AutoEncoderなど、話題が豊富。一通り読みたい。
+
+ - [量子アニーリングの数理](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/189516/1/bussei_el_033203.pdf)
+    - 西森先生による量子アニーリングの物理に関する解説記事。
+
 ## Quantum Programming関連
 
   - [IBM Quantum](https://quantum.ibm.com/)
@@ -62,8 +73,6 @@
 
   - [[arxiv 2404.12603] Qwerty: A Basis-Oriented Quantum Programming Language](https://arxiv.org/abs/2404.12603)
     - プログラマがゲートよりも表現力豊かに量子ビットを操作できる量子プログラミング言語Qwerty。ゲート選択という泥臭いタスクはコンパイラに任せる。新しい基底型とPythonとの相互運用性により高レベルの量子古典計算フレームワークを実現した。参考：https://x.com/tweetnakasho/status/1782519232959586390
-
-
 
 
 ### install方法関連
