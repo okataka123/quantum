@@ -1,0 +1,33 @@
+上位リストのソースコードURL
+
+SSRS
+  A3: https://www.qcoder.jp/ja/contests/QPC001/submissions/f657bb13-f844-4f6c-bac6-bc23e8450b0d
+  A4: https://www.qcoder.jp/ja/contests/QPC001/submissions/b27bc417-7a34-4520-81de-3604f11ab447
+  A5: https://www.qcoder.jp/ja/contests/QPC001/submissions/930aa50c-d61f-4d26-b776-a1a0f9bd184b 
+  B1: https://www.qcoder.jp/ja/contests/QPC001/submissions/4bbbf257-724b-4bef-a88d-5697b53c36ff
+  B2: https://www.qcoder.jp/ja/contests/QPC001/submissions/4c513420-d97d-4dce-99ed-7e5e0c6929fe
+  B3: https://www.qcoder.jp/ja/contests/QPC001/submissions/8992f813-81fc-4e35-8632-05e14926a248
+  C1: https://www.qcoder.jp/ja/contests/QPC001/submissions/8ca8a4db-33b3-4ef3-bbf3-751889fa32fe
+  C2: https://www.qcoder.jp/ja/contests/QPC001/submissions/176f0888-f934-4652-a541-28f581f76386
+
+tatyam
+  A2: 
+  A3: https://www.qcoder.jp/ja/contests/QPC001/submissions/2055ea6a-b7f1-4c0e-bc3b-a28a8332736e
+  A4: https://www.qcoder.jp/ja/contests/QPC001/submissions/86d31fa2-8b89-431a-891b-7e4750079208
+  A5: https://www.qcoder.jp/ja/contests/QPC001/submissions/2b7d15a0-9cee-409c-9862-1ed8153d7280
+  B1: https://www.qcoder.jp/ja/contests/QPC001/submissions/cbdf28e7-c13b-4349-8a99-33df07db27b0
+  B2: https://www.qcoder.jp/ja/contests/QPC001/submissions/4acd13df-e5f9-4c01-b4b7-da9b4a073f04
+  B3: https://www.qcoder.jp/ja/contests/QPC001/submissions/594eadf4-5b74-41c8-9a60-4d57b6d5b613
+  B4: https://www.qcoder.jp/ja/contests/QPC001/submissions/e7000b1b-41a4-4a8d-833a-b00eaf73d319
+  C2: https://www.qcoder.jp/ja/contests/QPC001/submissions/176f0888-f934-4652-a541-28f581f76386
+  
+
+tanakh
+  A2: https://www.qcoder.jp/ja/contests/QPC001/submissions/40238f96-9bf5-43eb-8726-c42abd8f2346
+  A3:
+  A4:
+  A5: https://www.qcoder.jp/ja/contests/QPC001/submissions/f5645a7b-77cd-4386-9a19-24a3ef8272fa
+  B1: https://www.qcoder.jp/ja/contests/QPC001/submissions/c4f99c39-558e-4b3f-b098-6b5009c524d9
+  B2: https://www.qcoder.jp/ja/contests/QPC001/submissions/f1f5db33-e54c-4529-ab1a-e4d78a957de7
+  B3: https://www.qcoder.jp/ja/contests/QPC001/submissions/5c9b6bc2-5f05-416b-a841-c2d6da657a54
+  B4: https://www.qcoder.jp/ja/contests/QPC001/submissions/14354e03-dbe4-4aa2-9013-e4a8e075dc09

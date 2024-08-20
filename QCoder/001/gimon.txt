@@ -1,0 +1,7 @@
+### gimon
+
+- QuantumCirquitと、QuantumRegisterはどう違うか？特にB2の使い方について
+- 初期化の仕方について sqrt(3)とか最初にできる？
+- multi control について、qiskit.circuit.library.Gate以外の方法も整理する。
+- 例えばB3の問題などで、どうやってテスト入力を与える？コレがわからないと自分でデバッグができない。
+- CHゲートを使った回路のstateを表示しようとすると、qiskit_aer.aererror.AerError: 'unknown instruction: ch'と出てしまう。
